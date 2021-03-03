@@ -1,0 +1,10 @@
+ignore$
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)vendor/
+^\.github/
+\.graffle$
+\.jpg$
+\.pdf$
+\.png$
+\.ttf$
